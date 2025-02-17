@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BibliotecaXPTO.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BibliotecaXPTO.sgtomc9i3u.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\fundo2.jpg",
+      "PackagePath": "staticwebassets\\images\\fundo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\fundo3.jpg",
+      "PackagePath": "staticwebassets\\images\\fundo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa1.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa10.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa11.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa12.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa13.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa14.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa15.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa16.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa17.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa18.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa19.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa2.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa20.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa3.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa4.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa5.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa6.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa7.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa8.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\img\\capa9.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\capa9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\images\\logo_biblioteca.png",
+      "PackagePath": "staticwebassets\\images\\logo_biblioteca.png"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BibliotecaXPTO.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BibliotecaXPTO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BibliotecaXPTO.props",
+      "PackagePath": "build\\BibliotecaXPTO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BibliotecaXPTO.props",
+      "PackagePath": "buildMultiTargeting\\BibliotecaXPTO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BibliotecaXPTO.props",
+      "PackagePath": "buildTransitive\\BibliotecaXPTO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

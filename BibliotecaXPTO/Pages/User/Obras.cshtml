@@ -1,0 +1,78 @@
+﻿@page
+@model BibliotecaXPTO.Pages.User.ObrasModel
+@{
+    ViewData["Title"] = "Obras";
+}
+<header>
+    <nav class="sidebar">
+        <div class="menu-icon">☰</div>
+        <ul class="nav flex-column">
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-area="" asp-page="/User/Inicial">
+                    <i class="fas fa-home"></i> <span class="menu-text">Inicial</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-area="" asp-page="/User/Obras">
+                    <i class="fa fa-book" aria-hidden="true"></i>
+                    <span class="menu-text">Obras</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-area="" asp-page="/User/Requisicoes">
+                    <i class="fa fa-bookmark" aria-hidden="true"></i>
+                    <span class="menu-text">Requisições</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-area="" asp-page="/User/Historico">
+                    <i class="fa fa-history" aria-hidden="true"></i>
+                    <span class="menu-text">Histórico</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-area="" asp-page="/User/Perfil">
+                    <i class="fas fa-user"></i> <span class="menu-text">Perfil</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+<h2 class="titulo-obras">Acervo de Obras</h2>
+
+<div class="grid-obras">
+    @foreach (var obra in Model.Obras)
+    {
+        <div class="card-obra">
+            <div class="imagem-container">
+                @if (!string.IsNullOrEmpty(obra.ImagemBase64))
+                {
+                    <img src="data:image/jpeg;base64,@obra.ImagemBase64" alt="@obra.Titulo" class="imagem-obra" />
+                }
+                else
+                {
+                    <img src="~/images/img/default.jpg" alt="Imagem Padrão" class="imagem-obra" />
+                }
+            </div>
+
+            <div class="detalhes-obra">
+                <h3>@obra.Titulo</h3>
+                <p><strong>Autor:</strong> @obra.Autor</p>
+
+                <!-- Ícone de informação -->
+                <div class="info-icon">
+                    ℹ️
+                    <div class="info-tooltip">
+                        <p><strong>Ano:</strong> @(obra.AnoPublicacao.HasValue ? obra.AnoPublicacao.Value : "Desconhecido")</p>
+                        <p><strong>Gênero:</strong> @obra.Genero</p>
+                        <p>@obra.Descricao</p>
+                    </div>
+                </div>
+
+                <!-- Botão "Requisitar" -->
+                <button class="btn-requisitar">Requisitar</button>
+            </div>
+        </div>
+    }
+</div>

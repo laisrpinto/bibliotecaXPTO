@@ -1,0 +1,111 @@
+﻿@page
+@model BibliotecaXPTO.Pages.User.RegistarModel
+@{
+    ViewData["Title"] = "Registo - Leitor";
+}
+
+<div class="container">
+    <form method="post">
+        <h2>Registo - Leitor</h2>
+        <input type="text" asp-for="Nome" placeholder="Nome Completo" required>
+        <input type="date" asp-for="DataNascimento" required>
+        <input type="email" asp-for="Email" placeholder="Email" required>
+        <input type="text" asp-for="Telefone" placeholder="Telefone" required>
+        <input type="text" asp-for="Username" placeholder="Nome de Utilizador" required>
+        <input type="password" asp-for="PalavraPasse" placeholder="Palavra-passe" required>
+        <button type="submit" class="btn">Registar</button>
+
+        @if (!string.IsNullOrEmpty(Model.MensagemRetorno))
+        {
+            <p class="success-message">@Model.MensagemRetorno</p>
+        }
+    </form>
+</div>
+
+<div class="login-container">
+    <p>Já tem uma conta? <a href="/User/Login">Faça o login aqui</a>.</p>
+</div>
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        padding: 0 15px;
+    }
+
+    form {
+        background-color: #ffffff;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 400px;
+        text-align: center;
+    }
+
+    h2 {
+        color: #333;
+        font-size: 24px;
+        margin-bottom: 20px;
+        font-weight: 600;
+    }
+
+    input {
+        width: 100%;
+        padding: 12px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 16px;
+        background-color: #fafafa;
+    }
+
+    button {
+        width: 100%;
+        padding: 12px;
+        background-color: #007bff;
+        color: white;
+        font-size: 16px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+    .success-message {
+        color: green;
+        font-size: 14px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .login-container {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+        .login-container a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+            .login-container a:hover {
+                text-decoration: underline;
+            }
+</style>
+

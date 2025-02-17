@@ -1,0 +1,206 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+/*--------------------------------------------------*/
+
+
+
+body {
+    margin-bottom: 60px;
+    /*background-image: url(/images/fundo3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;*/
+}
+
+.logo-biblioteca {
+    max-width: 50px; /* Defina um tamanho adequado */
+    max-height: 50px;
+    height: auto;
+    width: auto;
+}
+
+/* Menu lateral no lado direito */
+.sidebar {
+    width: 60px; /* Largura inicial pequena */
+    height: 100vh;
+    position: fixed;
+    left: 0; /* Move o menu para a direita */
+    top: 0;
+    background-color: saddlebrown;
+    transition: width 0.3s ease-in-out;
+    overflow: hidden;
+    z-index: 1000; /* Garante que o menu fique acima de tudo */
+    position: fixed; /* Mantém o menu fixo na tela */
+}
+
+    /* Expande ao passar o mouse */
+    .sidebar:hover {
+        width: 200px; /* Largura expandida */
+    }
+
+/* Ícone ? do menu */
+.menu-icon {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+/* Lista de navegação */
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Estilo dos itens do menu */
+.sidebar .nav-item {
+    padding: 10px;
+    text-align: left;
+}
+
+/* Ícones */
+.sidebar .nav-link i {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+/* Oculta o texto quando o menu está fechado */
+.menu-text {
+    display: none;
+}
+
+/* Exibe o texto ao expandir */
+.sidebar:hover .menu-text {
+    display: inline;
+}
+
+/*-----------------------------------------------------------------*/
+
+.titulo-obras {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.grid-obras {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 15px;
+    padding: 20px;
+    transition: margin-left 0.3s; /* Suaviza a movimentação ao expandir o menu */
+    z-index: 1; /* Garante que as obras fiquem abaixo do menu */
+}
+
+.card-obra {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
+
+    .card-obra:hover {
+        transform: scale(1.05);
+    }
+
+/* Ajuste para a imagem não preencher as bordas */
+.imagem-container {
+    width: 100%;
+    height: 120px; /* Reduzindo o tamanho da imagem */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.imagem-obra {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+/* Estilo do ícone de informação */
+.info-icon {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 4px;
+    background: transparent; /* Remove o fundo redondo */
+    transition: background 0.3s;
+}
+
+    .info-icon:hover {
+        background: rgba(0, 0, 0, 0.3);
+    }
+
+/* Caixa de informações oculta por padrão */
+.info-tooltip {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: #fff;
+    padding: 6px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    width: 180px; /* Diminui um pouco a largura */
+    text-align: left;
+    font-size: 12px;
+    z-index: 999; /* Faz a tooltip aparecer sobre os outros elementos */
+}
+
+/* Mostrar a caixa ao passar o mouse no ícone */
+/* Mostrar tooltip ao passar o mouse */
+.info-icon:hover .info-tooltip {
+    display: block;
+}
+
+/* Diminui o tamanho do título */
+.detalhes-obra h3 {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+
+/* Estilizando o botão "Requisitar" */
+.btn-requisitar {
+    background: #007bff;
+    color: #fff;
+    border: none;
+    padding: 6px 10px; /* Diminui o tamanho */
+    font-size: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 5px;
+    transition: background 0.3s;
+}
+
+    .btn-requisitar:hover {
+        background: #0056b3;
+    }
