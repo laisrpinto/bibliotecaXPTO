@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaXPTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eb4dd8f8f0e3ee56308ff0e18d8ce8d73254e6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaXPTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaXPTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

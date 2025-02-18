@@ -81,3 +81,7 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\Severino\css\style.css
+wwwroot\Severino\img\logo_biblioteca.png
+wwwroot\Severino\index.html
+wwwroot\Severino\js\javascript.js

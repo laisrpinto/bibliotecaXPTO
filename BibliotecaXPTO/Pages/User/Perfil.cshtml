@@ -36,6 +36,137 @@
                     <i class="fas fa-user"></i> <span class="menu-text">Perfil</span>
                 </a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-area="" asp-page="/User/Login" onclick="logout()">
+                    <i class="fas fa-sign-out-alt"></i> <span class="menu-text">Sair</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
+
+<div class="container mt-5 perfil-container">
+    <h2 class="mb-4">Dados Pessoais</h2>
+
+    @if (TempData["Sucesso"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["Sucesso"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    @if (TempData["Erro"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            @TempData["Erro"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    <form method="post">
+        <div class="card shadow">
+            <div class="card-body">
+                <div class="row">
+                    <!-- Campos mantêm o mesmo formato -->
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label>Nome Completo:</label>
+                            <input asp-for="Perfil.Nome" type="text" class="form-control" readonly>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Email:</label>
+                            <input asp-for="Perfil.Email" type="email" class="form-control" readonly>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Telefone:</label>
+                            <input asp-for="Perfil.Telefone" type="text" class="form-control" readonly>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Data de Nascimento:</label>
+                            <input asp-for="Perfil.DataNascimento" type="date" class="form-control" readonly>
+                        </div>
+                    </div>
+
+                    <!-- Restante dos campos -->
+                </div>
+
+                <div class="form-group">
+                    <label>Nome de Usuário:</label>
+                    <input asp-for="Perfil.Username" type="text" class="form-control" readonly>
+                </div>
+
+                <div class="mt-4">
+                    <button type="button" id="btnEditar" class="btn btn-primary">Alterar Dados</button>
+                    <button type="submit" id="btnSalvar" class="btn btn-success d-none">Salvar Alterações</button>
+                    <button type="button" id="btnCancelar" class="btn btn-secondary d-none">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+
+<style>
+    .perfil-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .card {
+        border-radius: 15px;
+        border: none;
+    }
+
+    .form-group {
+        margin-bottom: 1.5rem;
+    }
+
+    label {
+        font-weight: 600;
+        color: #2c3e50;
+    }
+
+    input[readonly] {
+        background-color: #f8f9fa;
+        border: 1px solid #ced4da;
+    }
+
+    .d-none {
+        display: none;
+    }
+
+    .btn {
+        transition: all 0.3s;
+    }
+
+    input:read-only {
+        background-color: #f8f9fa;
+    }
+
+    input:not([read-only]) {
+        background-color: white;
+        border: 1px solid #ced4da;
+    }
+</style>
+
+@section Scripts {
+    <script>
+        document.getElementById('btnEditar').addEventListener('click', () => {
+            const inputs = document.querySelectorAll('input[readonly]');
+            inputs.forEach(input => input.removeAttribute('readonly'));
+
+            document.getElementById('btnEditar').classList.add('d-none');
+            document.getElementById('btnSalvar').classList.remove('d-none');
+            document.getElementById('btnCancelar').classList.remove('d-none');
+        });
+
+        document.getElementById('btnCancelar').addEventListener('click', () => {
+            window.location.reload(); // Recarrega a página para descartar alterações
+        });
+
+    </script>
+}

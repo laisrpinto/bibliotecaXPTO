@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RNru4u1NAx8tLVpg4vCKs35/24hZ0ekvJF+qj8GEhpo=",
+  "Hash": "yibRdWH+ejK3SSZfiHSxl7bDRqXtKoeTDflM42sZs0s=",
   "Source": "BibliotecaXPTO",
   "BasePath": "_content/BibliotecaXPTO",
   "Mode": "Default",
@@ -598,8 +598,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "dt8o804dtu",
+      "Integrity": "ocrIHIzRuh0uu/mWLbELI6bQ7izXfcmBQ1QblZnqVS4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1800,6 +1800,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\css\\style.css",
+      "SourceId": "BibliotecaXPTO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\",
+      "BasePath": "_content/BibliotecaXPTO",
+      "RelativePath": "Severino/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7crwuiirkz",
+      "Integrity": "mWfImOQyE1zLuihEJq1Z1p+XHci2XMCZro9WJinpO+0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Severino\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\img\\logo_biblioteca.png",
+      "SourceId": "BibliotecaXPTO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\",
+      "BasePath": "_content/BibliotecaXPTO",
+      "RelativePath": "Severino/img/logo_biblioteca#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ouiv55aag",
+      "Integrity": "wO5wL3cAg1gSIMdhz6zA54qWuOsghqR7JnNgfCcnrK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Severino\\img\\logo_biblioteca.png"
+    },
+    {
+      "Identity": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\index.html",
+      "SourceId": "BibliotecaXPTO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\",
+      "BasePath": "_content/BibliotecaXPTO",
+      "RelativePath": "Severino/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eijw3kuj3l",
+      "Integrity": "OoJNiGeF1qDgF8mubuzRCFoR8DL8dsudjtOlIaLtlTo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Severino\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\js\\javascript.js",
+      "SourceId": "BibliotecaXPTO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\",
+      "BasePath": "_content/BibliotecaXPTO",
+      "RelativePath": "Severino/js/javascript#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dgcxh2fd4a",
+      "Integrity": "sxnI5LYHB03ERqZffunZZpFwJ4i2ptIJEgDuZmtkb9M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Severino\\js\\javascript.js"
     }
   ],
   "Endpoints": [
@@ -4018,6 +4102,51 @@
       ]
     },
     {
+      "Route": "js/site.dt8o804dtu.js",
+      "AssetFile": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ocrIHIzRuh0uu/mWLbELI6bQ7izXfcmBQ1QblZnqVS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 20:29:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dt8o804dtu"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ocrIHIzRuh0uu/mWLbELI6bQ7izXfcmBQ1QblZnqVS4="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -4028,7 +4157,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "448"
         },
         {
           "Name": "Content-Type",
@@ -4036,11 +4165,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"ocrIHIzRuh0uu/mWLbELI6bQ7izXfcmBQ1QblZnqVS4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 10:29:28 GMT"
+          "Value": "Mon, 17 Feb 2025 20:29:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4050,52 +4179,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 10:29:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-ocrIHIzRuh0uu/mWLbELI6bQ7izXfcmBQ1QblZnqVS4="
         }
       ]
     },
@@ -8770,6 +8854,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "Severino/css/style.7crwuiirkz.css",
+      "AssetFile": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mWfImOQyE1zLuihEJq1Z1p+XHci2XMCZro9WJinpO+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 20:32:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7crwuiirkz"
+        },
+        {
+          "Name": "label",
+          "Value": "Severino/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mWfImOQyE1zLuihEJq1Z1p+XHci2XMCZro9WJinpO+0="
+        }
+      ]
+    },
+    {
+      "Route": "Severino/css/style.css",
+      "AssetFile": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mWfImOQyE1zLuihEJq1Z1p+XHci2XMCZro9WJinpO+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 20:32:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mWfImOQyE1zLuihEJq1Z1p+XHci2XMCZro9WJinpO+0="
+        }
+      ]
+    },
+    {
+      "Route": "Severino/img/logo_biblioteca.0ouiv55aag.png",
+      "AssetFile": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\img\\logo_biblioteca.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24805"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wO5wL3cAg1gSIMdhz6zA54qWuOsghqR7JnNgfCcnrK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 20:32:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ouiv55aag"
+        },
+        {
+          "Name": "label",
+          "Value": "Severino/img/logo_biblioteca.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wO5wL3cAg1gSIMdhz6zA54qWuOsghqR7JnNgfCcnrK0="
+        }
+      ]
+    },
+    {
+      "Route": "Severino/img/logo_biblioteca.png",
+      "AssetFile": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\img\\logo_biblioteca.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24805"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wO5wL3cAg1gSIMdhz6zA54qWuOsghqR7JnNgfCcnrK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 20:32:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wO5wL3cAg1gSIMdhz6zA54qWuOsghqR7JnNgfCcnrK0="
+        }
+      ]
+    },
+    {
+      "Route": "Severino/index.eijw3kuj3l.html",
+      "AssetFile": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9711"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OoJNiGeF1qDgF8mubuzRCFoR8DL8dsudjtOlIaLtlTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 20:32:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eijw3kuj3l"
+        },
+        {
+          "Name": "label",
+          "Value": "Severino/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OoJNiGeF1qDgF8mubuzRCFoR8DL8dsudjtOlIaLtlTo="
+        }
+      ]
+    },
+    {
+      "Route": "Severino/index.html",
+      "AssetFile": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9711"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OoJNiGeF1qDgF8mubuzRCFoR8DL8dsudjtOlIaLtlTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 20:32:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OoJNiGeF1qDgF8mubuzRCFoR8DL8dsudjtOlIaLtlTo="
+        }
+      ]
+    },
+    {
+      "Route": "Severino/js/javascript.dgcxh2fd4a.js",
+      "AssetFile": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\js\\javascript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sxnI5LYHB03ERqZffunZZpFwJ4i2ptIJEgDuZmtkb9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 20:32:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dgcxh2fd4a"
+        },
+        {
+          "Name": "label",
+          "Value": "Severino/js/javascript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sxnI5LYHB03ERqZffunZZpFwJ4i2ptIJEgDuZmtkb9M="
+        }
+      ]
+    },
+    {
+      "Route": "Severino/js/javascript.js",
+      "AssetFile": "C:\\Users\\Laís Pinto\\Documents\\Modulo 3\\Projeto Final\\BibliotecaXPTO\\BibliotecaXPTO\\wwwroot\\Severino\\js\\javascript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sxnI5LYHB03ERqZffunZZpFwJ4i2ptIJEgDuZmtkb9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 20:32:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sxnI5LYHB03ERqZffunZZpFwJ4i2ptIJEgDuZmtkb9M="
         }
       ]
     }

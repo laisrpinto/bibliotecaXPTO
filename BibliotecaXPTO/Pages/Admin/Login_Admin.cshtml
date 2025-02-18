@@ -1,0 +1,118 @@
+﻿@page
+@model BibliotecaXPTO.Pages.Admin.Login_AdminModel
+@{
+    ViewData["Title"] = "Login - Admin";
+}
+<div class="container">
+    <form method="post">
+        <h2>Login - Bibliotecário</h2>
+        <input type="text" asp-for="Username" placeholder="Email" required>
+        <input type="password" asp-for="Password" placeholder="Senha" required>
+        <button type="submit" class="btn user">Entrar</button>
+
+        @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+        {
+            <p class="error-message">@Model.ErrorMessage</p>
+        }
+    </form>
+</div>
+
+<div class="register-container">
+    <p>Não tens uma conta? <a href="/User/Registar">Regista-te</a>.</p>
+</div>
+
+<style>
+    /* Estilo geral */
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Centralizar conteúdo */
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        padding: 0 15px;
+    }
+
+    /* Caixa de login */
+    form {
+        background-color: #ffffff;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 400px;
+        text-align: center;
+    }
+
+    /* Título dentro do formulário */
+    h2 {
+        color: #333;
+        font-size: 24px;
+        margin-bottom: 20px;
+        font-weight: 600;
+    }
+
+    /* Estilo para inputs */
+    input[type="text"], input[type="password"] {
+        width: 100%;
+        padding: 12px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 16px;
+        background-color: #fafafa;
+    }
+
+        input[type="text"]:focus, input[type="password"]:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+    /* Botão de login */
+    button {
+        width: 100%;
+        padding: 12px;
+        background-color: #007bff;
+        color: white;
+        font-size: 16px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+    /* Mensagem de erro */
+    .error-message {
+        color: red;
+        font-size: 14px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    /* Área de registo */
+    .register-container {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+        .register-container a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+            .register-container a:hover {
+                text-decoration: underline;
+            }
+</style>

@@ -4,6 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using EscolaXPTO_EF;
 using Microsoft.Extensions.Configuration;
+using Microsoft.AspNetCore.Authentication;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -63,3 +64,10 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
+app.MapPost("/User/Logout", async context =>
+{
+    context.Session.Clear();
+    await context.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+    context.Response.StatusCode = StatusCodes.Status200OK;
+});

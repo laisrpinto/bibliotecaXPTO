@@ -6,9 +6,9 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using EscolaXPTO_EF;
 
-namespace BibliotecaXPTO.Pages.User
+namespace BibliotecaXPTO.Pages.Admin
 {
-    public class LoginModel : PageModel
+    public class Login_AdminModel : PageModel
     {
         [BindProperty]
         public string Username { get; set; }
@@ -16,9 +16,9 @@ namespace BibliotecaXPTO.Pages.User
         [BindProperty]
         public string Password { get; set; }
 
-        private readonly EscolaEF _authService; 
+        private readonly EscolaEF _authService;
 
-        public LoginModel(EscolaEF authService) 
+        public Login_AdminModel(EscolaEF authService)
         {
             _authService = authService;
         }
@@ -32,10 +32,11 @@ namespace BibliotecaXPTO.Pages.User
                 // Obter o UserID do usuário autenticado
                 int userId = _authService.ObterUserIdPorUsername(Username);
                 HttpContext.Session.SetInt32("userID", userId); // Armazena o ID como inteiro
-                return RedirectToPage("/User/Inicial");
+                return Redirect("~/Severino/index.html");
             }
             ErrorMessage = "Usuário ou senha inválidos.";
             return Page();
         }
     }
 }
+

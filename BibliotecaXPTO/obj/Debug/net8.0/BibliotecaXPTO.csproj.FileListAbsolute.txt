@@ -155,3 +155,4 @@ C:\Users\Laís Pinto\Documents\Modulo 3\Projeto Final\BibliotecaXPTO\BibliotecaX
 C:\Users\Laís Pinto\Documents\Modulo 3\Projeto Final\BibliotecaXPTO\BibliotecaXPTO\bin\Debug\net8.0\LibDB_EF.dll
 C:\Users\Laís Pinto\Documents\Modulo 3\Projeto Final\BibliotecaXPTO\BibliotecaXPTO\bin\Debug\net8.0\EscolaXPTO_EF.pdb
 C:\Users\Laís Pinto\Documents\Modulo 3\Projeto Final\BibliotecaXPTO\BibliotecaXPTO\bin\Debug\net8.0\LibDB_EF.pdb
+C:\Users\Laís Pinto\Documents\Modulo 3\Projeto Final\BibliotecaXPTO\BibliotecaXPTO\obj\Debug\net8.0\BibliotecaXPTO.sourcelink.json
